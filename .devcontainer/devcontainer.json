@@ -1,5 +1,10 @@
 {
   "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "customizations": {
+    "vscode": {
+      "extensions": ["ms-toolsai.jupyter"]
+    }
+  },
   "features": {
     "ghcr.io/devcontainers-contrib/features/pipenv:2": {}
   }
