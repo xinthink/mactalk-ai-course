@@ -12,6 +12,7 @@ transformers = "*"
 datasets = "*"
 openai = "*"
 langchain = "*"
+atlassian-python-api = "*"
 
 [dev-packages]
 
